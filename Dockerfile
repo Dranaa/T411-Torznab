@@ -5,6 +5,8 @@ ENV GID=991 \
     UID=991 \
     USERNAME="t411" \
     PASSWORD="t411" \
+    BASET411="https://t411.al" \
+    BASEAPI="https://api.t411.al" \
     ONLYVERIFIED=true \
     DEBUGVERIFIED=false
 
